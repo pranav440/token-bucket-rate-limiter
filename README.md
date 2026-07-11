@@ -364,14 +364,13 @@ Building this project teaches:
 
 ## 📸 Screenshots
 
-| | |
-|---|---|
-| ![Swagger UI](<img width="796" height="536" alt="image" src="https://github.com/user-attachments/assets/851da800-a46e-4dd3-a0e2-f3442ee9aaff" />
-) | ![Rate Limit Check](<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/579a5d65-9645-4309-ac21-3cb1fa961698" />
-) |
-| *Swagger UI — API Explorer* | *Rate limit check — 200 response* |
+## 📸 Screenshots
 
-> Screenshots to be added after deployment.
+| Swagger UI — API Explorer | Rate Limit Check — 200 Response |
+|---|---|
+| ![Swagger UI](https://github.com/user-attachments/assets/851da800-a46e-4dd3-a0e2-f3442ee9aaff) | ![Rate Limit Check](https://github.com/user-attachments/assets/579a5d65-9645-4309-ac21-3cb1fa961698) |
+
+---
 
 ---
 
